@@ -2,9 +2,9 @@
 
 Welcome to the 30 Days Free Python Class for Beginners! This comprehensive course is designed to take you from a complete beginner to a proficient Python programmer. Whether you're new to programming or looking to enhance your skills, this course is perfect for you.
 
-## Instructor
+<!-- ## Instructor
 The class is instructed by <a href="https://abishekn.com.np">Abishek Neupane</a>.
-
+-->
 ## Course Overview
 This course is completely free and designed for beginners who have a strong motivation to practice and learn Python. We will delve deeply into the material, discussing and implementing everything we learn. From here, you can start your journey as a developer.
 
