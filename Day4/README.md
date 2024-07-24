@@ -1,4 +1,4 @@
-# Homework of Day 3
+# Homework of Day 4         
 
 1. **Discount Calculation**
     ```python
