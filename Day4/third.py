@@ -6,3 +6,9 @@
     Compute the number of remaining pens and print it.    
     '''
 
+#do yourself
+num = 4
+pow = num**3
+
+print(pow)
+
