@@ -1,4 +1,4 @@
-# 30 Days Free Python Class for Beginners
+<!-- # 30 Days Free Python Class for Beginners
 
 Welcome to the 30 Days Free Python Class for Beginners! This comprehensive course is designed to take you from a complete beginner to a proficient Python programmer. Whether you're new to programming or looking to enhance your skills, this course is perfect for you.
 
@@ -16,3 +16,4 @@ To clone the repository with all the notes and code:
 ```bash
 git clone https://github.com/virtualabishek/30Days-Free-Python-Session
 cd 30Days-Free-Python-Session
+ -->

@@ -1,7 +1,7 @@
 # Homework of Day 4         
 
 1. **Discount Calculation**
-    ```python
+    ```python 
     # Suppose you are a university student and you need to pay 150000 rs as your tuition fee.
     # The college is offering a 30% discount on early payments. To solve this problem:
     # - Create a variable named fee and assign 1536 to it.
