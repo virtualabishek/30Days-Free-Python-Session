@@ -16,4 +16,3 @@ To clone the repository with all the notes and code:
 ```bash
 git clone https://github.com/virtualabishek/30Days-Free-Python-Session
 cd 30Days-Free-Python-Session
- -->
