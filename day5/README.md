@@ -14,7 +14,7 @@
     # Get the price of an item and the discount percentage from the user, and calculate the final price after the discount.
     # - Create a variable named price and assign it the input value.
     # - Create another variable discount_percent and assign it the input value.
-    # - Compute the discount using the formula (discount_percent / 100) * price and assign it to the discount variable.
+    # - Compute the discount using the formula (discount_percent / 100) * price and assign it to the discount variable...
     # - Compute and print the final price after subtracting the discount from the price.
     ```
 
