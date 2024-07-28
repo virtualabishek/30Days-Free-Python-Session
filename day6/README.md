@@ -1,4 +1,4 @@
-# Homework of Day 3
+# Homework of Day 6
 
 1. **Temperature Conversion**
     ```python
