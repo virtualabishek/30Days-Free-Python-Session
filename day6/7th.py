@@ -11,7 +11,7 @@ c = int(input("Enter a value of c: "))
 
 # Intepreting formula]
 
-x = (-b+(b**2+(b**2 - 4*a*c)**0.5)/2*a)
+x = (-b+((b**2 - 4*a*c)**0.5)/2*a)
 
 xnew = ((-b+(b**2 - 4*a*c)** 0.5)/2*a)
 xn2 =(-b+((b**2-4*a*c)**1/2))/2*a
