@@ -11,3 +11,11 @@ Expected Output
 var1 < var2: True
 var1 > var2: False
 var1 != var2: True """
+
+var1 = int(input("Enter the first number: "))
+
+var2 =  int(input("Enter the second number: "))
+
+print(f"var1 < var2: {var1<var2}")
+print(f"var1 > var2: {var1>var2}")
+print(f"var1 != var2: {var1!=var2}")
