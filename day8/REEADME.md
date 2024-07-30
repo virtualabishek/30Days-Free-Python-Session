@@ -2,10 +2,10 @@
 
 ## 1. Check if a Number Falls Within a Given Range
 
-Write a program that checks whether a number falls within the range of 0 to 100 (inclusive).
+Write a program that checks whether a number falls within the range of 40 to 60 (exclusive).
 
 1. Take an integer input from the user and store it in `number`.
-2. Check if the number is between 0 and 100 and print the result.
+2. Check if the number is between 40 and 60 and print the result.
 
 **Example**
 
@@ -17,17 +17,17 @@ True
 
 ---
 
-## 2. Check if a Number is Not Divisible by 3
+## 2. Check if a Number is Not Divisible by 9
 
-Write a program to check if a number is not divisible by 3.
+Write a program to check if a number is not divisible by 9.
 
 1. Take an integer input from the user and store it in `number`.
-2. Check if the number is not divisible by 3 and print the result.
+2. Check if the number is not divisible by 9 and print the result.
 
 **Example**
 
 **Test Input**  
-9
+81
 
 **Expected Output**  
 False
