@@ -1,4 +1,4 @@
-# Final Project [Submission Date: 2081/05/19]
+# Homework of Day - 24
 
 ### 1. Write a program to print prime numbers between 10 and 70.
 
